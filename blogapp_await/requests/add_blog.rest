@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs HTTP/2.0
+Content-Type: application/json
+
+{
+    "title": "Le blog de Cheikh8",
+    "author": "Moi-même",
+    "url": "https://mon-aaaa-blog.com",
+    "likes": 4,
+    "user": "64472af03cdca7a94c42b761"
+} 
